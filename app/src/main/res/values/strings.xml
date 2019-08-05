@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="upload_image">Upload image</string>
+    <string name="sign_in_cancelled">You cancelled</string>
+    <string name="no_internet_connection">Not connected to the internet</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="logout">Logout</string>
+    <string name="admin_activity">Admin Activity</string>
+    <string name="user_activity">User Activity</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+</resources>
